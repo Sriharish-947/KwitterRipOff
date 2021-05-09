@@ -1,0 +1,12 @@
+html, body
+{
+    background-color: aqua;
+    margin-top: 150px;
+}
+
+#loginButton
+{
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
